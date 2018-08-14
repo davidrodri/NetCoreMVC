@@ -1,0 +1,14 @@
+C:\Users\David\Documents\GitHub\NetCoreMVC\NetCoreMVC\NetCoreMVC\NetCoreMVC\bin\Debug\netcoreapp2.1\NetCoreMVC.deps.json
+C:\Users\David\Documents\GitHub\NetCoreMVC\NetCoreMVC\NetCoreMVC\NetCoreMVC\bin\Debug\netcoreapp2.1\NetCoreMVC.runtimeconfig.json
+C:\Users\David\Documents\GitHub\NetCoreMVC\NetCoreMVC\NetCoreMVC\NetCoreMVC\bin\Debug\netcoreapp2.1\NetCoreMVC.runtimeconfig.dev.json
+C:\Users\David\Documents\GitHub\NetCoreMVC\NetCoreMVC\NetCoreMVC\NetCoreMVC\bin\Debug\netcoreapp2.1\NetCoreMVC.dll
+C:\Users\David\Documents\GitHub\NetCoreMVC\NetCoreMVC\NetCoreMVC\NetCoreMVC\bin\Debug\netcoreapp2.1\NetCoreMVC.pdb
+C:\Users\David\Documents\GitHub\NetCoreMVC\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.csprojAssemblyReference.cache
+C:\Users\David\Documents\GitHub\NetCoreMVC\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.csproj.CoreCompileInputs.cache
+C:\Users\David\Documents\GitHub\NetCoreMVC\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.RazorAssemblyInfo.cache
+C:\Users\David\Documents\GitHub\NetCoreMVC\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.RazorAssemblyInfo.cs
+C:\Users\David\Documents\GitHub\NetCoreMVC\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.AssemblyInfoInputs.cache
+C:\Users\David\Documents\GitHub\NetCoreMVC\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.AssemblyInfo.cs
+C:\Users\David\Documents\GitHub\NetCoreMVC\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.RazorTargetAssemblyInfo.cache
+C:\Users\David\Documents\GitHub\NetCoreMVC\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.dll
+C:\Users\David\Documents\GitHub\NetCoreMVC\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.pdb
