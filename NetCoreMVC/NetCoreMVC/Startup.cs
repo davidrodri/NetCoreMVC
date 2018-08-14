@@ -6,6 +6,7 @@ using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
 using Microsoft.Extensions.DependencyInjection;
+using NetCoreMVC.Models;
 
 namespace NetCoreMVC
 {
@@ -16,7 +17,9 @@ namespace NetCoreMVC
         public void ConfigureServices(IServiceCollection services)
         {
             /* LA APLICACION SEPA MVC */
+            services.AddTransient<IPieRepository, MockPieRepository>();
             services.AddMvc();
+
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
