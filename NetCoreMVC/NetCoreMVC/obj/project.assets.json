@@ -11500,23 +11500,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\adore\\.nuget\\packages\\": {},
+    "C:\\Users\\drodriguez\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Github David\\Building Your First ASP.NET Core 2.1 MVC Application with Visual Studio 2017\\NetCoreMVC\\NetCoreMVC\\NetCoreMVC\\NetCoreMVC.csproj",
+      "projectUniqueName": "E:\\Github David\\NetCoreMVC\\NetCoreMVC\\NetCoreMVC\\NetCoreMVC.csproj",
       "projectName": "NetCoreMVC",
-      "projectPath": "D:\\Github David\\Building Your First ASP.NET Core 2.1 MVC Application with Visual Studio 2017\\NetCoreMVC\\NetCoreMVC\\NetCoreMVC\\NetCoreMVC.csproj",
-      "packagesPath": "C:\\Users\\adore\\.nuget\\packages\\",
-      "outputPath": "D:\\Github David\\Building Your First ASP.NET Core 2.1 MVC Application with Visual Studio 2017\\NetCoreMVC\\NetCoreMVC\\NetCoreMVC\\obj\\",
+      "projectPath": "E:\\Github David\\NetCoreMVC\\NetCoreMVC\\NetCoreMVC\\NetCoreMVC.csproj",
+      "packagesPath": "C:\\Users\\drodriguez\\.nuget\\packages\\",
+      "outputPath": "E:\\Github David\\NetCoreMVC\\NetCoreMVC\\NetCoreMVC\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\adore\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\drodriguez\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

@@ -37,3 +37,28 @@ D:\Github David\Building Your First ASP.NET Core 2.1 MVC Application with Visual
 D:\Github David\Building Your First ASP.NET Core 2.1 MVC Application with Visual Studio 2017\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.csproj.CopyComplete
 D:\Github David\Building Your First ASP.NET Core 2.1 MVC Application with Visual Studio 2017\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
 D:\Github David\Building Your First ASP.NET Core 2.1 MVC Application with Visual Studio 2017\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\bin\Debug\netcoreapp2.1\NetCoreMVC.deps.json
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\bin\Debug\netcoreapp2.1\NetCoreMVC.runtimeconfig.json
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\bin\Debug\netcoreapp2.1\NetCoreMVC.runtimeconfig.dev.json
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\bin\Debug\netcoreapp2.1\NetCoreMVC.dll
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\bin\Debug\netcoreapp2.1\NetCoreMVC.pdb
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\bin\Debug\netcoreapp2.1\NetCoreMVC.Views.dll
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\bin\Debug\netcoreapp2.1\NetCoreMVC.Views.pdb
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.csprojResolveAssemblyReference.cache
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.csproj.CoreCompileInputs.cache
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.RazorAssemblyInfo.cache
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.RazorAssemblyInfo.cs
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.AssemblyInfoInputs.cache
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.AssemblyInfo.cs
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.TagHelpers.input.cache
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.TagHelpers.output.cache
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.RazorCoreGenerate.cache
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.RazorTargetAssemblyInfo.cache
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.RazorTargetAssemblyInfo.cs
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.Views.pdb
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.dll
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.pdb
+E:\Github David\NetCoreMVC\NetCoreMVC\NetCoreMVC\obj\Debug\netcoreapp2.1\NetCoreMVC.csproj.CopyComplete
